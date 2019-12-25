@@ -1,0 +1,6 @@
+E:\C\Practice13\Practice13\bin\Debug\Practice13.exe.config
+E:\C\Practice13\Practice13\bin\Debug\Practice13.exe
+E:\C\Practice13\Practice13\bin\Debug\Practice13.pdb
+E:\C\Practice13\Practice13\obj\Debug\Practice13.csprojAssemblyReference.cache
+E:\C\Practice13\Practice13\obj\Debug\Practice13.exe
+E:\C\Practice13\Practice13\obj\Debug\Practice13.pdb
